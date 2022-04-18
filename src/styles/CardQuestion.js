@@ -1,4 +1,4 @@
-import { Button, FormLabel, Radio } from '@chakra-ui/react'
+import { FormLabel, Radio } from '@chakra-ui/react'
 import styled from 'styled-components'
 
 export const DivForm = styled.div`
